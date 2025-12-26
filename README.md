@@ -50,7 +50,7 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 ---
 
-## 🔥 Slam Lifestyle & Fitness Studio
+## 💪 Slam Lifestyle & Fitness Studio
 
 - Physical presence: 40+ centers
 - Branch: Dominant in South India (Chennai, Bengaluru)
