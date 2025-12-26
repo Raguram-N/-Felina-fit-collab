@@ -1,5 +1,5 @@
 # 🤖 Felina Fit — Collaboration Targets
-### 🏋️‍♂️ Cult.fit (CureFit) | 🔥 Slam Gym | ⏱️ Anytime Fitness | 💪 Gold’s Gym | 🏆 Talwalkars Fitness
+### 🏋️‍♂️ Cult.fit (CureFit) | 🔥 Slam Gym | ⏱️ Anytime Fitness 
 
 ---
 
@@ -18,11 +18,6 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 - Branch : 40+ cities
 - Revenue (FY Mar 2025): ₹1,216 crore
 - Growth: 31% increase from the previous year. 
-
-**🎯 Best Teams to Target**
-- Partnerships / Alliances
-- Product (Retention / Engagement)
-- Corporate Wellness
 
 **📩 Official Contact Channels**
 - Website: https://cult.fit
