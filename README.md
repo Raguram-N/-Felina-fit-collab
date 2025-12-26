@@ -1,5 +1,5 @@
 # 🤖 Felina Fit — Collaboration Targets
-### 🏋️‍♂️ Cult.fit (CureFit) | 🔥 Slam Gym | ⏱️ Anytime Fitness 
+### 🏋️‍♂️ Cult.fit (CureFit) | 💪 Slam Gym | ⏱️ Anytime Fitness 
 
 ---
 
