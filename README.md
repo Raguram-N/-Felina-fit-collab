@@ -6,8 +6,20 @@
 ## 🤝 One-line Summary
 Felina Fit enables gym members to get daily workout plans, diet advice, and habit reminders through voice calls, helping gyms improve member retention, engagement, and results—without asking users to install or learn new apps.
 
-> **✨ Members speak. Felina guide.** <br>
-> **✨ No apps. No screens. Just a phone call — Felina handles the rest.**
+- **Full repo** [**Link**](https://github.com/Raguram-N/Felina-fitness/blob/main/README.md)
+
+---
+
+## 🚀 Simply - What Felina Fit Do
+
+**Felina Fit is a voice-first AI assistant that helps gym members:**
+- **Daily Workout Guidance:** Beginner-friendly, injury-aware routines
+- **Diet & Weight-Loss Advice:** Meal plans, protein guidance, fasting support
+- **Cooking & Nutrition Tips:** Simple, protein-rich recipes & low-oil cooking
+- **Habit Reminders:** Workouts, hydration, protein intake nudges
+
+> **✨ Simple phone call → Personalized guidance → Better fitness outcomes**
+
 
 ---
 
@@ -97,7 +109,7 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 ### ✅ Priority
 
-⭐⭐⭐⭐ (Best pilot partner)
+⭐⭐⭐⭐ 
 
 ---
 
@@ -146,4 +158,4 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 ### ✅ Priority
 
-⭐⭐⭐⭐⭐ (High ROI, franchise-driven)
+⭐⭐⭐⭐⭐ 
