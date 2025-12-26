@@ -74,6 +74,28 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 - Aneesh (Paulsons Management): aneesh@paulsons.in.
 - Human Resources (for Training/Academy Collabs): hr@slamfitness.co or hr@slamfitness.in. 
 
+### Other mail id and contacts
+
+**1. General Business Opportunities & Collaborations**
+- This is the main point of contact for most partnerships, real estate proposals, and vendor relations.
+- Primary Email: ceo@paulsons.in
+- Note: This email reaches the office of the CEO, Dr. S.R. Sam Paul, and is the most direct corporate channel for high-level business proposals.
+
+**Phone Numbers:**
+- +91 91768 40500
+- +91 99628 54265
+- +91 98414 63406 
+
+**2. Marketing & General Inquiries**
+- For media, marketing tie-ups, or general information, you can use these contacts.
+- Email (General): info@slamfitnessstudio.in
+- Phone (General): +91 84899 26866 
+
+**3. HR & Recruitment (Trainer/Staff Collaborations)**
+- If your collaboration involves a specific individual or recruitment, use the Human Resources channels.
+- HR Email: hr@slamfitness.co
+- HR Phone: +91 70944 79142
+
 ### 🧠 Outreach Angle
 
 “Felina Fit acts as a trainer-extension, reducing repetitive member queries.”
@@ -84,39 +106,49 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 ---
 
-⏱️ Anytime Fitness (India)
-🎯 Best Teams to Target
+## ⏱️ Anytime Fitness (India)
 
-India Franchise Team
+- Physical Presence : Operates in 17 states and 47 cities
+- Branch Count : Over 170 clubs
+- Revenue (FY Mar 2025) : $1.1 billion
+- Growth :  20% year-on-year growth rate
 
-Regional Operations Managers
+### 📩 Official Contact Channels
 
-Franchise Owners
+- India site: https://www.anytimefitness.co.in
 
-📩 Official Contact Channels
+### 🔗 LinkedIn Lead Generation (Very effective)
+- **Managing Director:** Vikas Jain (vikas@anytimefitness.in)
+- **CEO:** Raunaq Gill (raunaq@anytimefitness.in)
+- **Head of Sales:** Sanjay Singh. (sanjay@anytimefitness.in)
+- **Head of Marketing:** Ryan Rocque. (ryan@anytimefitness.in)
+- **Human Resources Manager:** Harpreet Malhotra (harpreet@anytimefitness.in)
 
-India site: https://www.anytimefitness.co.in
+### Other mail id:
+**1. Vendor & Product Partnerships**
+- If you want to offer a product or service to their gyms or members, Anytime Fitness has a formal Preferred Vendor process. 
+- Email: vendorrelations@anytimefitness.in
+- Requirement: Send your proposal as a concise MS Word or PowerPoint file.
+- Process: A review panel meets every 6 weeks to evaluate new vendor proposals.
 
-Franchise inquiry: https://www.anytimefitness.co.in/franchise
+**2. Marketing & Brand Collaborations**
+- For co-branding, events, or general marketing tie-ups:
+- Email: marketing@anytimefitness.in. 
 
-🔗 LinkedIn Lead Generation (Very effective)
+**3. Franchise & Investor Opportunities**
+- If your collaboration involves opening new clubs or real estate:
+- Email: opportunities@anytimefitness.in.
+- Alternative: You can also fill out their Official Franchise Inquiry Form for a faster response from their sales team. 
 
-Search:
+**4. General Business Inquiries**
+- For other corporate matters, you can reach their Head Office in New Delhi: 
+- General Email: info@anytimefitness.in.
+- Phone: +91 1145402260
 
-Company: Anytime Fitness India
-Titles:
-- Head – Operations
-- Franchise Manager
-- Regional Manager
-- Business Development
-
-🧠 Outreach Angle
+### 🧠 Outreach Angle
 
 “Felina Fit improves member retention without increasing trainer costs.”
 
-✅ Priority
+### ✅ Priority
 
 ⭐⭐⭐⭐⭐ (High ROI, franchise-driven)
-
-
-⭐⭐⭐ (Good mid-scale pilot)
